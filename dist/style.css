@@ -83,7 +83,7 @@ header .right_nav #login{
 
 .slideshow{
     position: relative;
-    background-image: url("./photos/slider_image.jpg");
+    background-image: url("../photos/slider_image.jpg");
     width: 80%;
     height: 500px;
     left: 10%;
@@ -93,9 +93,9 @@ header .right_nav #login{
 }
 
 @keyframes slider{
-    0%{background-image: url("./photos/slider_image.jpg");}
-    35%{background-image: url("./photos/slider_photography.jpg");}
-    75%{background-image: url("./photos/slider_iphone.jpg") ;}
+    0%{background-image: url("../photos/slider_image.jpg");}
+    35%{background-image: url("../photos/slider_photography.jpg");}
+    75%{background-image: url("../photos/slider_iphone.jpg") ;}
 }
 
 .polaroid{
